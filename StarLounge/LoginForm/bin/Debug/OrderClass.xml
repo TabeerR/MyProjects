@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<ArrayOfOrderClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderClass>
+    <id>1</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>8</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>2</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Hot-water</type>
+    <quantity>2</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>3</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>6</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>4</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Ice</type>
+    <quantity>7</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>5</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Hot-water</type>
+    <quantity>3</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>6</id>
+    <coffeename>Mocha</coffeename>
+    <type>Ice</type>
+    <quantity>8</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>7</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>10</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>8</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Ice</type>
+    <quantity>5</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>9</id>
+    <coffeename>Mocha</coffeename>
+    <type>Hot-water</type>
+    <quantity>9</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>10</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Hot-water</type>
+    <quantity>7</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>11</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>10</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>12</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>7</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>13</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>8</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>14</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>2</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>15</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Hot-water</type>
+    <quantity>1</quantity>
+  </OrderClass>
+  <OrderClass>
+    <id>16</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Ice</type>
+    <quantity>10</quantity>
+  </OrderClass>
+</ArrayOfOrderClass>

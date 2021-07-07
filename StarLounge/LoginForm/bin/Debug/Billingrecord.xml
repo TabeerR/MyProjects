@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<ArrayOfBillingClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BillingClass>
+    <id>1</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>8</quantity>
+    <amount>1200</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>2</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Hot-water</type>
+    <quantity>2</quantity>
+    <amount>800</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>3</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>6</quantity>
+    <amount>1000</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>4</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Ice</type>
+    <quantity>7</quantity>
+    <amount>1500</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>5</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Hot-water</type>
+    <quantity>3</quantity>
+    <amount>600</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>6</id>
+    <coffeename>Mocha</coffeename>
+    <type>Ice</type>
+    <quantity>8</quantity>
+    <amount>1000</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>7</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>10</quantity>
+    <amount>600</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>8</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Ice</type>
+    <quantity>5</quantity>
+    <amount>1200</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>12</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>7</quantity>
+    <amount>500</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>11</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>10</quantity>
+    <amount>150</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>13</id>
+    <coffeename>Double Espresso (Doppio)</coffeename>
+    <type>Hot-water</type>
+    <quantity>8</quantity>
+    <amount>5000</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>14</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Ice</type>
+    <quantity>2</quantity>
+    <amount>100</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>15</id>
+    <coffeename>Cappuccino</coffeename>
+    <type>Hot-water</type>
+    <quantity>1</quantity>
+    <amount>60</amount>
+  </BillingClass>
+  <BillingClass>
+    <id>16</id>
+    <coffeename>Espresso (Short Black)</coffeename>
+    <type>Ice</type>
+    <quantity>10</quantity>
+    <amount>1000</amount>
+  </BillingClass>
+</ArrayOfBillingClass>
