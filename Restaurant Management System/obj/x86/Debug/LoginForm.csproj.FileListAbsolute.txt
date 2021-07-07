@@ -1,0 +1,18 @@
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Login.resources
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Properties.Resources.resources
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.exe
+c:\users\aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Aizzy\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.BillingForm.resources
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.BillingForm.resources
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.Login.resources
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\obj\x86\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Aizzy\Desktop\PF Stuff\Login and Billing form\LoginForm\bin\Debug\LoginForm.pdb
