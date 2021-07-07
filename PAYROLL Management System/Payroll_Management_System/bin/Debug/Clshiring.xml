@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ArrayOfClsHiring xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsHiring>
+    <Employeeid>5</Employeeid>
+    <First_Name>hina</First_Name>
+    <Last_Name>marva</Last_Name>
+    <Salary>50000</Salary>
+    <Address>fjksdjl</Address>
+    <E_mail>fldhflj</E_mail>
+    <Phone_number>45646646</Phone_number>
+    <City>Rawalpindi</City>
+    <Country>Pakistan</Country>
+    <Department>IT Department</Department>
+    <Gender>Female</Gender>
+  </clsHiring>
+  <clsHiring>
+    <Employeeid>6</Employeeid>
+    <First_Name>hira</First_Name>
+    <Last_Name>shadiqa</Last_Name>
+    <Salary>40000</Salary>
+    <Address>dghksh</Address>
+    <E_mail>sdgfjag</E_mail>
+    <Phone_number>4666676</Phone_number>
+    <City>Rawalpindi</City>
+    <Country>Pakistan</Country>
+    <Department>Marketing Department</Department>
+    <Gender>Female</Gender>
+  </clsHiring>
+  <clsHiring>
+    <Employeeid>2</Employeeid>
+    <First_Name>noman</First_Name>
+    <Last_Name>khan</Last_Name>
+    <Salary>20000</Salary>
+    <Address>pafkiet123</Address>
+    <E_mail>nomankhan</E_mail>
+    <Phone_number>03428353203</Phone_number>
+    <City>Karachi</City>
+    <Country>Pakistan</Country>
+    <Department>HR Department</Department>
+    <Gender>Male</Gender>
+  </clsHiring>
+  <clsHiring>
+    <Employeeid>1</Employeeid>
+    <First_Name>hgfdsaqweyuu</First_Name>
+    <Last_Name>imjbygcrd</Last_Name>
+    <Salary>30000</Salary>
+    <Address>hesfbj6315.kn</Address>
+    <E_mail>jghgdgrhiko+355@</E_mail>
+    <Phone_number>1152580981</Phone_number>
+    <City>Karachi</City>
+    <Country>Pakistan</Country>
+    <Department>HR Department</Department>
+    <Gender>Female</Gender>
+  </clsHiring>
+</ArrayOfClsHiring>

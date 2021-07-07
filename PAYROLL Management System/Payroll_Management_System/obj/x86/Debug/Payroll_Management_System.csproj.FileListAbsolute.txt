@@ -1,0 +1,112 @@
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Form1.resources
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+c:\users\wb computers\documents\visual studio 2010\Projects\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Form1.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attenddance.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.employee_details.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+C:\Users\WB COMPUTERS\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.employee_details.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+C:\Users\Usama\OneDrive\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+C:\Users\WB COMPUTERS\Desktop\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+G:\Files\Project HRM\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\HINRA\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\HINRA\Desktop\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+C:\Users\HINRA\Desktop\hina folder\PAYROLL\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.Cache
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+C:\Users\Aizzy\Downloads\PAYROLL-20200213T105116Z-001\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\bin\Debug\Payroll_Management_System.exe
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\bin\Debug\Payroll_Management_System.pdb
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.AssemblyReference.cache
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.attendance.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.dashboard.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Hiring.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.login.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.payroll.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.Properties.Resources.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.recruitment.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.selection.resources
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.GenerateResource.cache
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.csproj.CoreCompileInputs.cache
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.exe
+D:\Tabeer Data\Tabeer Data\PAYROLL-20200213T105116Z-001\Payroll_Management_System\obj\x86\Debug\Payroll_Management_System.pdb

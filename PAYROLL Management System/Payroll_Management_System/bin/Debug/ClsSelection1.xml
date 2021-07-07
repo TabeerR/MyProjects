@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfClsSelection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsSelection>
+    <Candidate_id>12</Candidate_id>
+    <First_Name>dfgo</First_Name>
+    <Last_Name>dfb</Last_Name>
+    <Address>gjh</Address>
+    <E_mail>ogih</E_mail>
+    <Phone_number>6545686</Phone_number>
+    <City>Karachi</City>
+    <Country>Pakistan</Country>
+    <Department>HR Department</Department>
+    <Gender>Male</Gender>
+    <Employeeid>1</Employeeid>
+  </clsSelection>
+</ArrayOfClsSelection>
